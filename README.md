@@ -1,2 +1,5 @@
-# Copia_login_Netflix
- copia da aba de login da netflix em html e css
+--- Copia Login Netflix -- 
+
+
+
+![Uploading Captura de tela 2023-11-14 224033.png…]()
